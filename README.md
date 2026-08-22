@@ -119,4 +119,4 @@ All rights reserved. See [LICENSE](./LICENSE) for details.
 
 ---
 
-*Built as a portfolio project exploring real-time computer vision, model fusion, and behavior-based system design.*
+
